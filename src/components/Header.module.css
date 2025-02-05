@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--gray-700);
+    height: 12.5rem;
+    width: 100%;
+    font-family: 'inter', sans-serif;
+    font-size: 1.5rem;
+}
+
+.header img {
+    margin-right: 10px; 
+}
+
+.header h1{
+    color: var(--blue);
+}
+
+.header strong {
+    color: var(--purple-dark);
+}
+ 
