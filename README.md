@@ -28,13 +28,13 @@ Este é um projeto de lista de tarefas desenvolvido com React e Vite.
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. Navegue até o diretório do projeto:
-  ```bash
-  cd seu-repositorio
+   ```bash
+   cd seu-repositorio
 
 3. Instale as dependências:
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. Para iniciar o servidor de desenvolvimento, execute:
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
